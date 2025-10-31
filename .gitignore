@@ -1,0 +1,29 @@
+# Ignore virtual environments
+venv/
+.venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+
+# Editor files
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log
+
+# Generated files
+*.sqlite3
+
+# Optional: ignore output CSV/JSON files
+ *.csv
+# *.json
